@@ -1,4 +1,4 @@
-# BayesianFlowNetwork
+# Bayesian Flow Networks
 
 Go read the paper it's peak https://arxiv.org/abs/2308.07037
 
